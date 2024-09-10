@@ -1,7 +1,7 @@
 import requests
 
 TOKEN = '7542002054:AAEg0qVZz2dEjVvgRH8ZhyKWKvvTpaH3XJ8'  # توکن ربات خود را وارد کنید
-WEBHOOK_URL = 'https://your-domain.com/bot/webhook/'  # آدرس سرور خود را اینجا وارد کنید
+WEBHOOK_URL = 'https://emzedam.ir/bot/webhook/'  # آدرس سرور خود را اینجا وارد کنید
 
 def set_webhook():
     # آدرس API برای تنظیم وب‌هوک ربات
